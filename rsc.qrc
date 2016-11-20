@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="Tetris_background_1.png">images/Tetris_background_1.png</file>
+        <file alias="Tetris_background_2.png">images/Tetris_background_2.png</file>
+        <file alias="Tetris_background_3.png">images/Tetris_background_3.png</file>
+        <file alias="Tetris_background_4.png">images/Tetris_background_4.png</file>
+        <file alias="Tetris_background_5.png">images/Tetris_background_5.png</file>
+        <file alias="Tetris_background_6.png">images/Tetris_background_6.png</file>
+        <file alias="Tetris_background_7.png">images/Tetris_background_7.png</file>
+        <file alias="Tetris_background_8.png">images/Tetris_background_8.png</file>
+        <file alias="Tetris_background_9.png">images/Tetris_background_9.png</file>
+        <file alias="Tetris_background_10.png">images/Tetris_background_10.png</file>
+        <file alias="box.gif">images/box.gif</file>
+        <file alias="icon.png">images/icon.png</file>
+        <file alias="Tetris_background_1.jpg">images/Tetris_background_1.jpg</file>
+    </qresource>
+</RCC>

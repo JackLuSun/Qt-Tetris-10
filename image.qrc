@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/box.gif</file>
+        <file>images/icon.png</file>
+        <file>images/Tetris_background_1.jpg</file>
+        <file>images/Tetris_background_1.png</file>
+        <file>images/Tetris_background_2.png</file>
+        <file>images/Tetris_background_3.png</file>
+        <file>images/Tetris_background_4.png</file>
+        <file>images/Tetris_background_5.png</file>
+        <file>images/Tetris_background_6.png</file>
+        <file>images/Tetris_background_7.png</file>
+        <file>images/Tetris_background_8.png</file>
+        <file>images/Tetris_background_9.png</file>
+        <file>images/Tetris_background_10.png</file>
+        <file>images/Tetris_background_11.png</file>
+        <file>images/Tetris_background_12.png</file>
+        <file>images/Tetris_background_13.png</file>
+        <file>images/Tetris_background_14.png</file>
+        <file>images/Tetris_background_15.png</file>
+        <file>images/Tetris_background_16.png</file>
+        <file>images/Tetris_background_17.png</file>
+        <file>images/Tetris_background_18.png</file>
+        <file>images/Tetris_background_19.png</file>
+        <file>images/Tetris_background_20.png</file>
+        <file>images/Tetris_background_21.png</file>
+    </qresource>
+</RCC>
